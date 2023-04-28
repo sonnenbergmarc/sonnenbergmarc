@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on getting used to not having any school projects to work on. I'm also working on my Website Portfolio and polishing a Laravel project from school.
+- 🌱 I’m currently learning more about Laravel and also C++.
+- 👯 I’m looking to collaborate on any projects. I'm always looking to learn something new or to help in the things that I have experience in.
 
 <!--
 **sonnenbergmarc/sonnenbergmarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
